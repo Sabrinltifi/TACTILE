@@ -1,0 +1,5 @@
+Web speech API DE W3C
+https://github.com/WICG/speech-api
+
+W3C vibration API
+https://w3c.github.io/vibration/
